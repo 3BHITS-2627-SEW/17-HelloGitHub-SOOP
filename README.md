@@ -4,5 +4,6 @@
 
 ### https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet
 
-änderung
+## erster commit von rechner
 
+## Zweiter commit vom Server
